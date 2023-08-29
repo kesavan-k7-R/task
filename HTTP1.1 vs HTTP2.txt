@@ -1,5 +1,3 @@
-
-
 - Introduction: Explain what HTTP is and why it is important for web communication. Give some background on the development of HTTP/1.1 and HTTP/2 and their main goals and features.
 - HTTP/1.1 vs HTTP/2: Compare and contrast the two versions of HTTP in terms of their technical differences and performance implications. Use the following subheadings to organize your comparison:
     - Text vs Binary: Explain how HTTP/1.1 uses plain text to encode and transmit data, while HTTP/2 uses binary codes. Discuss the advantages and disadvantages of each approach in terms of efficiency, readability, and compatibility.
