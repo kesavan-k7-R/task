@@ -1,0 +1,12 @@
+
+
+- Introduction: Explain what HTTP is and why it is important for web communication. Give some background on the development of HTTP/1.1 and HTTP/2 and their main goals and features.
+- HTTP/1.1 vs HTTP/2: Compare and contrast the two versions of HTTP in terms of their technical differences and performance implications. Use the following subheadings to organize your comparison:
+    - Text vs Binary: Explain how HTTP/1.1 uses plain text to encode and transmit data, while HTTP/2 uses binary codes. Discuss the advantages and disadvantages of each approach in terms of efficiency, readability, and compatibility.
+    - Single vs Multiple Connections: Explain how HTTP/1.1 loads a single request for every TCP connection, while HTTP/2 uses multiplexing to load multiple requests over a single connection. Discuss how this affects the network delay, bandwidth usage, and resource management.
+    - Prioritization: Explain how HTTP/2 allows developers to assign weighted values to different data streams, which tells the client which data stream to render first. Discuss how this improves the perceived and actual page load speed and user experience.
+    - Server Push: Explain how HTTP/2 enables the server to push additional resources to the client before they are requested, while HTTP/1.1 requires the client to request each resource separately. Discuss how this reduces the number of round trips and latency.
+    - Header Compression: Explain how HTTP/2 compresses the headers of each request and response, while HTTP/1.1 sends them in plain text. Discuss how this reduces the overhead and improves the performance.
+- Conclusion: Summarize the main points of your comparison and highlight the benefits of using HTTP/2 over HTTP/1.1. Provide some examples of websites that support HTTP/2 and how they have improved their performance and user experience. Encourage your readers to adopt HTTP/2 for their own web projects.
+
+
