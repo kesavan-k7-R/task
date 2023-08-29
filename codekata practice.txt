@@ -1,0 +1,4 @@
+- [GUVI](^1^): GUVI is a platform that helps you learn and code in your native language. You can access Codekata from GUVI and solve problems in various languages, such as Java, Python, C, C++, and more.
+- [Codewars](^2^): Codewars is a platform that helps you achieve mastery through coding practice and developer mentorship. You can solve challenges called "kata" in 55+ programming languages and compare your solutions with others. You can also create your own kata and review code from the community.
+- [CodeChef]: CodeChef is a platform that helps you learn and improve your programming skills through online contests. You can participate in monthly challenges, cook-offs, and lunchtime contests and solve problems in various domains, such as data structures, algorithms, math, etc. You can also practice problems from the problem archive and discuss them on the forum.
+
